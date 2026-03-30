@@ -1,6 +1,6 @@
 # QR-PPO Deep Hedging on Empirical Option Chains
 
-Distributional reinforcement learning framework for tail-risk-aware dynamic hedging.
+Distributional reinforcement learning framework for tail-risk-aware dynamic hedging
 
 This repository trains and evaluates:
 - `QR-PPO (tail-aware)` with asymmetric reward shaping and quantile critic
